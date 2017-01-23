@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-	cout<<"This is simply a test program,while testing github.com.";
+	cout<<"This is a new branch.";
 	return 0;
 }
