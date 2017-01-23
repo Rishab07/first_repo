@@ -6,6 +6,6 @@ int main(){
 	int n;
 	cout<<"Enter a number:\n";
 	cin>>n;
-	cout<<"Here's the double value:   "<<(2*n);
+	cout<<"Here's the square value:   "<<(n*n);
 	return 0;
 }
